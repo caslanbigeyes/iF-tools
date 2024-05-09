@@ -28,12 +28,12 @@ module.exports = {
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/xiumubai',
+        link: 'https://github.com/caslanbigeyes/iF-tools',
       },
     ],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2022-present xiumubai',
+      copyright: 'Copyright © 2022-present iF',
     },
     sidebar: {
       '/': [

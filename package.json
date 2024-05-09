@@ -39,13 +39,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xiumubai/vivace-tool.git"
+    "url": "https://github.com/caslanbigeyes/iF-tools.git"
   },
   "bugs": {
-    "url": "https://github.com/xiumubai/vivace-tool/issues"
+    "url": "https://github.com/caslanbigeyes/iF-tools/issues"
   },
-  "homepage": "https://github.com/xiumubai/vivace-tool.git",
-  "author": "xiumubai",
+  "homepage": "https://github.com/caslanbigeyes/iF-tools.git",
+  "author": "IF",
   "license": "MIT",
   "config": {
     "commitizen": {
