@@ -56,4 +56,4 @@ alert(sum(1, 2))
 
 [视频讲解]()
 
-[提交PR说明](https://www.yuque.com/xiumubai/fe/ufg8ff)
+[提交PR说明](https://www.yuque.com/iF/fe/ufg8ff)
